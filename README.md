@@ -1,3 +1,3 @@
 # anime_demoman_for_desktop
-Summons a 3D spinning Demoman from Team Fortress 2 to enliven your boring desktop environment.
+Summons a 3D spinning Demoman from Team Fortress 2 to enliven your boring desktop environment.<br>
 Enjoy the traditional Scottish sound of bagpipe music and drunken rambling.
